@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Funcionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IdFuncionario>6958c3a7-a778-4143-983c-5a2ad791e1d6</IdFuncionario>
+  <Nome>Carlos Eduardo Ferreira</Nome>
+  <Cpf>111.991.167-26</Cpf>
+  <Matricula>2344543</Matricula>
+  <DataAdmissao>2024-04-03T00:00:00</DataAdmissao>
+  <Salario>8000.00</Salario>
+  <Endereco>
+    <IdEndereco>6e6cd0f5-bcc8-44a0-90f7-e9effb69ece6</IdEndereco>
+    <Logradouro>Rua Vitor Meireles</Logradouro>
+    <Complemento>Aptº502</Complemento>
+    <Numero>185</Numero>
+    <Bairro>Riachuelo</Bairro>
+    <Localidade>Rio de Janeiro</Localidade>
+    <Uf>RJ</Uf>
+    <Cep>20.950-230</Cep>
+  </Endereco>
+</Funcionario>
